@@ -13,4 +13,4 @@ Tạo trang web đầu tiên cho người mới bắt đầu
 1. Tạo project trên VS Code và push lên github với tên html_lab1
 2. Tạo các thư mục chứa các hình ảnh và các tài liệu để thực hành điều hướng và thực hành sử dụng các phần tử cơ bản
 3. Cập nhật tài liệu README.md để trình bày nội dung và các kết quả
-4. Khó quá thầy ơi.
+4. Nâng cao 
