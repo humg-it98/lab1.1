@@ -17,9 +17,9 @@ body {
 .form {
     border: 1px solid #80808000;
     grid-column: 6/9;
-    grid-row: 3;
-    height: 470px;
-    width: 292px;
+    grid-row: 4;
+    height: 530px;
+    width: 300px;
     display: flex;
     flex-direction: column;
     align-items: center;
