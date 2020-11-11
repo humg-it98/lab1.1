@@ -16,4 +16,4 @@ Tạo trang web đầu tiên cho người mới bắt đầu
 4. Tham khao từ trang web: W3School.
  
 ## Kết quả
-![Kết quả](images/screen_01.JPG)
+![Kết quả](images/screen_01.jpg)
