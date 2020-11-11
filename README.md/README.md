@@ -14,3 +14,6 @@ Tạo trang web đầu tiên cho người mới bắt đầu
 2. Tạo các thư mục chứa các hình ảnh và các tài liệu để thực hành điều hướng và thực hành sử dụng các phần tử cơ bản
 3. Cập nhật tài liệu README.md để trình bày nội dung và các kết quả
 4. Tham khao từ trang web: W3School.
+ 
+## Kết quả
+![Kết quả](images/screen_01.JPG)

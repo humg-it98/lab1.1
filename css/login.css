@@ -49,10 +49,22 @@ h1{
     outline: none;
 }
 .btn-box{
+    text-align: left;
+    margin-top: 30px;
+}
+.btn-box-1{
     text-align: right;
     margin-top: 30px;
 }
 .btn-box button{
+    padding: 7.5px 15px;
+    border-radius: 2px;
+    background-color: #009999;
+    color: #ffffff;
+    border: none;
+    outline: none;
+}
+.btn-box-1 button{
     padding: 7.5px 15px;
     border-radius: 2px;
     background-color: #009999;
